@@ -1,0 +1,9 @@
+[submodule "member-service"]
+	path = member-service
+	url = https://github.com/nimilamudalige/member-service.git
+[submodule "class-service"]
+	path = class-service
+	url = https://github.com/nimilamudalige/class-service.git
+[submodule "booking-service"]
+	path = booking-service
+	url = https://github.com/nimilamudalige/booking-service.git
